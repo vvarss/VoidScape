@@ -63,4 +63,9 @@ It visualizes a dynamic cosmic environment that includes animated planets, stars
 * Use of procedural randomness for realism
 
 * Camera-based scene interaction and smooth motion
-## Animation
+## ✨Animation
+
+
+https://github.com/user-attachments/assets/b8dbe3f3-5910-44a9-ba73-4a129a552e1f
+
+
